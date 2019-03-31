@@ -1,0 +1,7 @@
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojResolveAssemblyReference.cache
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+D:\לימודים מדמח\תכנות מונחה עצמים בסביבת דוט.נט\מטלות\מטלה 3\B18 Ex03 Hai 301487138 Hen 20132225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
