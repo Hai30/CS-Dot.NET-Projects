@@ -1,0 +1,11 @@
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\bin\Debug\Ex05.UI.exe
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\bin\Debug\Ex05.UI.pdb
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\bin\Debug\Ex05.CheckersLogic.dll
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\bin\Debug\Ex05.CheckersLogic.pdb
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Ex05.Interface.csprojResolveAssemblyReference.cache
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Interface.CheckersForm.resources
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Interface.MyLogIn.resources
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Ex05.UI.Properties.Resources.resources
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Ex05.Interface.csproj.GenerateResource.Cache
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Ex05.UI.exe
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.UI\obj\Debug\Ex05.UI.pdb

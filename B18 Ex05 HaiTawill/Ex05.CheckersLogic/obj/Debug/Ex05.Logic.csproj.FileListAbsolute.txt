@@ -1,0 +1,5 @@
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.CheckersLogic\bin\Debug\Ex05.CheckersLogic.dll
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.CheckersLogic\bin\Debug\Ex05.CheckersLogic.pdb
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.CheckersLogic\obj\Debug\Ex05.Logic.csprojResolveAssemblyReference.cache
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.CheckersLogic\obj\Debug\Ex05.CheckersLogic.dll
+D:\כללי\Cv's&Git\Git\Test\B18 Ex05 HenZarfati 201322252 HaiTawill 301487138\Ex05.CheckersLogic\obj\Debug\Ex05.CheckersLogic.pdb
